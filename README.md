@@ -1,11 +1,11 @@
 
 #############################################################################################################################################################################################################################################################################
 
-a create a full stack project 
+a create a full-stack project 
 add on programming lengvages  of the project in html, css, bootstrap, python , javascript
-add on backend in this project use for the django 
+add on backend in this project use for the Django 
 some information in django :-  why use for backend in only django many other way show up in market but why django? 
-django is best/easy for wroks freamework in backend and in buite backend add on django ,django have a one of the best admin panel and show up backend heandels and easy to fontend to django world conaverts some file for htmls, css and bootstrap and js 
+django is best/easy for wroks framework in backend and in buite backend add on django ,Django have a one of the best admin panels and show up backend handles and easy to frontend to django world contains some file for HTML, css and Bootstrap and js 
 django is easy to excusions of the fornt files and django inbilt database use  stroages 
 
 #############################################################################################################################################################################################################################################################################
@@ -14,7 +14,7 @@ django is easy to excusions of the fornt files and django inbilt database use  s
 #############################################################################################################################################################################################################################################################################
 
 
-so  see  the best project in backend and easy to excusion of  real time use in boold donet app and production rady ......
+so  see  the best project in the backend and easy to the exclusion of  real-time use in Boold donet app and production ready......
 
 #############################################################################################################################################################################################################################################################################
 
@@ -37,7 +37,5 @@ cd "C:\Users\DELL\Downloads\blood\blood\Blood-Bank-Management-System-main"
 python manage.py createsuperuser
 python manage.py runserver
 
-#############################################################################################################################################################################################################################################################################
-#############################################################################################################################################################################################################################################################################
 #############################################################################################################################################################################################################################################################################
 
